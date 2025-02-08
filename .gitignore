@@ -1,0 +1,7 @@
+.vscode/
+.cache/
+build/
+
+compile_commands.json
+mingw-w64-x86_64.cmake
+note.txt
